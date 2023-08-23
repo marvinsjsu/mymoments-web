@@ -1,0 +1,9 @@
+{
+  "server": {
+    "port": 3000
+  },
+  "security": {
+    "secretKey": "mymomentsofclarity",
+    "expiresIn": "7d"
+  }
+}
